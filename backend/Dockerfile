@@ -53,4 +53,3 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
 
 # Start the application
 CMD ["node", "server.js"]
-root@ip-172-31-32-207:/hom
